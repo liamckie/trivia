@@ -1,0 +1,13 @@
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\bin\Debug\netcoreapp3.1\trivia.exe
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\bin\Debug\netcoreapp3.1\trivia.deps.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\bin\Debug\netcoreapp3.1\trivia.runtimeconfig.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\bin\Debug\netcoreapp3.1\trivia.runtimeconfig.dev.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\bin\Debug\netcoreapp3.1\trivia.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\bin\Debug\netcoreapp3.1\trivia.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\obj\Debug\netcoreapp3.1\trivia.AssemblyInfoInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\obj\Debug\netcoreapp3.1\trivia.AssemblyInfo.cs
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\obj\Debug\netcoreapp3.1\trivia.csproj.CoreCompileInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\obj\Debug\netcoreapp3.1\trivia.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\obj\Debug\netcoreapp3.1\trivia.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\obj\Debug\netcoreapp3.1\trivia.genruntimeconfig.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\trivia\obj\Debug\netcoreapp3.1\trivia.csproj.AssemblyReference.cache
